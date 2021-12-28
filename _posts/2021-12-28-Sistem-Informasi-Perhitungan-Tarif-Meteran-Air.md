@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project Pertama
-cover: first-post.png
-excerpt: Belajar hal baru itu seru! 
+title: Sistem Informasi Perhitungan Tarif Meteran Air
+cover: first-post.jpg
+excerpt: Website Sistem Informasi
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/post1)
