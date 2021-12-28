@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Sistem Informasi Perhitungan Tarif Meteran Air
-cover: first-post.jpg
+cover: first-post.JPG
 excerpt: Website Sistem Informasi
 ---
 
-![_config.yml]({{ site.baseurl }}/images/first-post.jpg)
+![_config.yml]({{ site.baseurl }}/images/first-post.JPG)
 
 Sistem ini berfungsi untuk membantu memudahkan dalam perhitungan tarif harga pada Perusahaan Air Minum, dan memudahkan pelanggan agar mengetahui berapa tarif yang harus dibayar. Terdapat dua tipe user, Admin dan Pelanggan, yang masing-masing memiliki hak akses tersendiri. Admin disini memiliki akses bebas ke seluruh data, sementara akses Pelanggan dibatasi. 
 
-![_config.yml]({{ site.baseurl }}/images/post1_2.jpg)
+![_config.yml]({{ site.baseurl }}/images/post1_2.JPG)
 
 ![_config.yml]({{ site.baseurl }}/images/post1_3.jpg)
 
