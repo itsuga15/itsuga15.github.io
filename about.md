@@ -10,4 +10,4 @@ Saya mencari kesempatan untuk bisa berkontribusi lebih jauh di industri IT untuk
 
 ### Contact me
 
-[email@domain.com](mailto:adityalandz@gmail.com.com)
+[adityalandz@gmail.com](mailto:adityalandz@gmail.com)
