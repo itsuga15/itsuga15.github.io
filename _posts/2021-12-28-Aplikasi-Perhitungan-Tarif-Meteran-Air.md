@@ -15,4 +15,4 @@ Ini merupakan aplikasi peritungan tarif meteran air yang akan terhubung dengan R
 
 ![_config.yml]({{ site.baseurl }}/images/post2_4.jpg)
 
-Untuk Source code lengkapnya, [Kunjungi disini](https://github.com/itsuga15/Aplikasi-Perhitungan-Tarif-Meteran-Air).
+Untuk Source code lengkapnya, silahkan hubungi saya.
