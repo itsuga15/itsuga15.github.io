@@ -15,4 +15,4 @@ Sistem ini berfungsi untuk membantu memudahkan dalam perhitungan tarif harga pad
 
 ![_config.yml]({{ site.baseurl }}/images/post1_4.jpg)
 
-Untuk pengimputan data tarif, menggunakan aplikasi android yang akan digunakan petugas untuk menginput data tarif langsung dari lapangan untuk melakukan scanning meteran air dan data tersebut akan masuk kedalam database yang bisa langsung dilihat oleh pelanggan. Untuk aplikasi android akan dijelaskan pada proyek selanjutnya. Untuk akses Source code Sistem Informasi ini, silahkan hubungi saya.
+Untuk pengimputan data tarif, menggunakan aplikasi android yang akan digunakan petugas untuk menginput data tarif langsung dari lapangan untuk melakukan scanning meteran air dan data tersebut akan masuk kedalam database yang bisa langsung dilihat oleh pelanggan. Untuk aplikasi android akan dijelaskan pada proyek selanjutnya. Untuk akses Source code Sistem Informasi ini, [KLIK DISINI](https://github.com/itsuga15/Sistem-Informasi-Perhitungan-Tarif-Meteran-Air).
